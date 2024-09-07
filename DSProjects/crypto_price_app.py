@@ -23,7 +23,7 @@ This app retrieves prices along with other information regarding different crypt
 # About
 expander_bar = st.expander('About')
 expander_bar.markdown("""
-* **Made By:** <Your Name>
+* **Made By:** <Prafull raj>
 * **Data source:** [CoinMarketCap](http://coinmarketcap.com).
 """)
 
