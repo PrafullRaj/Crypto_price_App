@@ -1,10 +1,6 @@
 streamlit
-Image
 pandas
 matplotlib
-BeautifulSoup
-requests
-json
-seaborn 
-bs4 
+seaborn
+bs4
 cryptocmd 
