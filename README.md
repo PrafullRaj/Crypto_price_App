@@ -16,7 +16,8 @@ This is a cryptocurrency dashboard built using Streamlit, designed to retrieve a
 
 This app is deployed using **Render**. You can access the live app at:
 
-**[Live App Link](<[insert-your-app-link-here](https://crypto-price-app-90q4.onrender.com)>)**
+
+**[Live App Link](https://crypto-price-app-90q4.onrender.com)**
 
 ## Setup and Installation
 
